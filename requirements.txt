@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+azure-storage-blob
+pandas
+scikit-learn  # Assuming you're using scikit-learn for the model
+matplotlib
+seaborn
+scipy
+statsmodels
+python-dotenv==0.21.0
